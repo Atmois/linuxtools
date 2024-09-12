@@ -1,3 +1,3 @@
 # linuxtools
 
-General Linux Tools for easier mangement of your system via a GUI
+General Linux tools for easier mangement of your system via a GUI
